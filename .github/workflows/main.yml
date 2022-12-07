@@ -1,7 +1,7 @@
 name: Upload to s3
 on:
   push:
-    branches: [ main ]
+    branches: [ Aangaritai.github.io ]
 jobs:
   build:
     runs-on: ubuntu-latest
